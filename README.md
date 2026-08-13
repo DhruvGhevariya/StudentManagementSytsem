@@ -6,7 +6,6 @@ A console-based Java application for managing student information and attendance
 ## 🚀 Key Features
 
 * Add new student records
-* 
 * View complete student details
 * Search students by Name or ID
 * Update student information
