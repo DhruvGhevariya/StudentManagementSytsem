@@ -41,7 +41,4 @@ Student-Management-System/
 ├── README.md
 └── .gitignore
 ```
-### Reports
-
-Generate student details and attendance percentage reports.
 
